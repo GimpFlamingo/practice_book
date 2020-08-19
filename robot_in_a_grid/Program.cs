@@ -6,6 +6,7 @@ namespace robot_in_a_grid
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
         }
     }
